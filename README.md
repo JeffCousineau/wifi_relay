@@ -1,5 +1,7 @@
 # wifi_relay
 Web server for NodeMCU (esp8266) to control a relay. Can receive POST request from an IFTTT applet.
+V1 : simple web interface with a button to trigger your relay for 5 seconds.
+V2 : 
 
 ## Configuration
 * V1 : Set your SSID and your PASSWORD
