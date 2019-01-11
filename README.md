@@ -1,5 +1,5 @@
 # wifi_relay
-Web server for NodeMCU (esp8266) to control relay
+Web server for NodeMCU (esp8266) to control a relay. Can receive POST request from an IFTTT applet.
 
 ## Configuration
 * V1 : Set your SSID and your PASSWORD
