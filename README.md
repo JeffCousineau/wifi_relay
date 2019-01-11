@@ -22,3 +22,6 @@ const char* api_key = "";
   * Install IFTTT on your cellphone. This will let you make a POST request to your server by simply using a button on your cellphone.
   * Add a new service, IF : button press, THEN : webhooks
   * The same technique can be use to trigger a POST request with a voice command using your google home.
+
+# References
+* https://techtutorialsx.com/2016/10/22/esp8266-webserver-getting-query-parameters/
